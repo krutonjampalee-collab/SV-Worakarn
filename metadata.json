@@ -1,0 +1,6 @@
+{
+  "name": "PA 2569 ศน.วรการจักรี",
+  "description": "Digital Professional Portfolio และรายงานผลการพัฒนางานตามข้อตกลง PA ประจำปีงบประมาณ พ.ศ. 2569 นายวรการจักรี จำปาลี ศึกษานิเทศก์ชำนาญการ สพม.กาฬสินธุ์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
